@@ -6,7 +6,7 @@ This folder contains dataset "test.csv", "train.csv" and the jupyter notebook fo
 In this project i use "Guassian Naive Bays" , "Logistic Regression" and "Random Forest" algorithms.
 feel free if you have any question about this project.
 
-Visit my kaggle's profile:
+Visit my kaggle profile:
 https://www.kaggle.com/yusefnewton
 
 Visit my profile  on Linkedin.com:
